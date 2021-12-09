@@ -79,9 +79,9 @@
         {
             "url":"https://github.com/chrismytton/heroku-buildpack-jq.git"
         },
-        {
-            "url":"https://github.com/midnightmadwalk/MyGpack.git"
-        },
+        //{
+        //    "url":"https://github.com/midnightmadwalk/MyGpack.git"
+        //},
         {
             "url":"https://github.com/code-rgb/aria2c_heroku.git"
         },
