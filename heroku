@@ -35,3 +35,5 @@ $LAUNCH_CMD
 
 # stress relief.
 sleep 5
+
+bash run
